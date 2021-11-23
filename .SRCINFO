@@ -1,0 +1,12 @@
+pkgbase = ppet-bin
+	pkgdesc = Put a moe girl on your desktop
+	pkgver = 1.2.1
+	pkgrel = 1
+	url = https://github.com/zenghongtu/PPet
+	arch = x86_64
+	license = MIT
+	provides = ppet
+	source = https://github.com/zenghongtu/PPet/releases/download/v1.2.1/PPet-1.2.1.deb
+	sha256sums = 36933e831609f7d88fe2c689edf91e4a1335a0a569a36c5c5f6b7bb0c72ed90e
+
+pkgname = ppet-bin
