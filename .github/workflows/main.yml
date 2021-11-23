@@ -7,7 +7,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           ref: ${{ github.head_ref }}
-      - name: GNU Emacs. Development master branch.
+      - name: PPet build
         uses: antman666/build-aur-action@mine
         with:
           repo-name: PPet-bin-PKGBUILD
